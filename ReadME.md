@@ -1,5 +1,5 @@
 
-# Text2kg_LLM_KGAgent
+# Text2triple_LLM_KGAgent
 
 This repository contains the code and resources for the research project "Towards Harnessing Large Language Models as Autonomous Agents for Semantic Triple Extraction from Unstructured Text". The project aims to develop a framework that integrates Large Language Models (LLMs) with existing tools like REBEL and KnowGL for the task of triple extraction from unstructured text to construct knowledge graphs.
 
